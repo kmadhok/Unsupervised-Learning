@@ -38,13 +38,13 @@ If possible, determine where the elbow of the plot is, and at which value of k i
 
 Patients can be clustered into 3 different clusters since there is a distinct elbow seen of k equals 3. 
 
-## Technologies used:
-Python
-Pandas
-Jupyter Notebook
-MatPlotLib
-Sci-Kit Learn
-StandardScaler
-PCA
-KMEANS
-t-SNE
+## Technologies Used:
+Python,
+Pandas,
+Jupyter Notebook,
+MatPlotLib,
+Sci-Kit Learn,
+StandardScaler,
+PCA,
+KMEANS,
+and t-SNE
