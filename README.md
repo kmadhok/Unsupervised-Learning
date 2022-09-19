@@ -36,4 +36,15 @@ If possible, determine where the elbow of the plot is, and at which value of k i
 
 ## Part 4: Make a Recommendation
 
-Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters?
+Patients can be clustered into 3 different clusters since there is a distinct elbow seen of k equals 3. 
+
+## Technologies used:
+Python
+Pandas
+Jupyter Notebook
+MatPlotLib
+Sci-Kit Learn
+StandardScaler
+PCA
+KMEANS
+t-SNE
